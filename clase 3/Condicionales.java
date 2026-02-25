@@ -15,4 +15,4 @@ public class Condicionales {
         }
         sc.close();
     }
-}
+}   
