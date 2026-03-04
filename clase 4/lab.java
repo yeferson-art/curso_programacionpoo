@@ -17,7 +17,7 @@ public class lab {
 
         System.out.print("Cuántos alumnos: ");
         int cantidad = sc.nextInt();
-
+ 
         for (int i = 1; i <= cantidad; i++) {
             
             System.out.print("Digite el peso del alumno " + i + ": ");
